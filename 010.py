@@ -1,0 +1,10 @@
+from math import log10
+a = eval(input('Please enter the value of a: '))
+b = eval(input('Please enter the value of b: '))
+print(f'The sum of a and b is {a + b}')
+print(f'The difference when b is subtracted from a is {a - b}')
+print(f'The product of a and b is {a * b}')
+print(f'The quotient when a is divided by b is {a / b}')
+print(f'The remainder when a is divided by b is {a % b}')
+print(f'The result of log10 a is {log10(a)}')
+print(f'The result of a ^ b is {a ** b}')
