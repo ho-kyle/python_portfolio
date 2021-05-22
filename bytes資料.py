@@ -1,0 +1,10 @@
+string = 'abc'
+string_encode = string.encode('utf-8')
+print(len(string_encode))
+print(type(string_encode))
+print(string_encode)
+print()
+string_decode = string_encode.decode('utf-8')
+print(len(string_decode))
+print(type(string_decode))
+print(string_decode)
