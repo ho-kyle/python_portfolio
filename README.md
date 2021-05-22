@@ -1,16 +1,15 @@
 # 目錄
 1: Mailing Address  
-2: Hello
-3: Area of a Room
-
-4: Area of a Field
-5: Bottle Deposits
-6: Tax and Tip
-7: Sum of the First n Positive Integers
-8: Widgets and Gizmos
-9: Compound Interest
-10: Arithmetic
-11: Fuel Efficiency
+2: Hello  
+3: Area of a Room  
+4: Area of a Field  
+5: Bottle Deposits  
+6: Tax and Tip  
+7: Sum of the First n Positive Integers  
+8: Widgets and Gizmos  
+9: Compound Interest  
+10: Arithmetic  
+11: Fuel Efficiency  
 12: Distance Between Two Points on Earth
 13: Making Change
 14: Height Units
@@ -86,12 +85,12 @@
 85: Convert an Integer to its Ordinal Number
 86: The Twelve Days of Christmas
 87: Center a String in the Terminal
-88: Is it a Valid Triangle?
-89: Capitalize It
-90: Does a String Represent an Integer?
-91: Operator Precedence
-92: Is a Number Prime?
-93: Next Prime
+88: Is it a Valid Triangle?  
+89: Capitalize It  
+90: Does a String Represent an Integer?  
+91: Operator Precedence  
+92: Is a Number Prime?  
+93: Next Prime  
 94: Random Passwo
 95: Random License Pla
 96: Check a Password
